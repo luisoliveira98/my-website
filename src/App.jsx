@@ -2,11 +2,11 @@ import "./App.css";
 import foto from "./foto-perfil.jpeg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
-import Footer from "./Footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div class="font-mono pl-96 pr-96 pt-16 pb-16 text-gray-600 flex flex-col h-screen justify-between">
+    <div class="font-mono px-96 pt-16 pb-16 text-gray-600 flex flex-col h-screen justify-between">
       <main>
         {/* Header with personal information */}
         <div class="flex justify-between">
@@ -33,7 +33,7 @@ function App() {
               <span class="text-xl font-bold">
                 Software Engineer @ Critical Software
               </span>
-              <span class="text-gray-400">2021-Current</span>
+              <span class="text-gray-400">2021-Present</span>
             </div>
             <div class="pt-4">
               <span class="text-gray-400 text-justify">
@@ -66,9 +66,9 @@ function App() {
           <div>
             <div class="flex justify-between">
               <span class="text-xl font-bold">
-                BTech in Informatics Engineering
+                Master in Software Engineering
               </span>
-              <span class="text-gray-400">2016-2020</span>
+              <span class="text-gray-400">2019-2021</span>
             </div>
             <div>
               <span class="text-gray-400">University of Aveiro</span>
@@ -77,9 +77,9 @@ function App() {
           <div>
             <div class="flex justify-between">
               <span class="text-xl font-bold">
-                MSc in Informatics Engineering
+                Bachelor in Software Engineering
               </span>
-              <span class="text-gray-400">2019-2021</span>
+              <span class="text-gray-400">2016-2020</span>
             </div>
             <div>
               <span class="text-gray-400">University of Aveiro</span>
@@ -128,6 +128,36 @@ function App() {
         <div class="pt-6">
           <div class="mb-4 border-b border-gray-300">
             <span class="text-gray-800 text-3xl font-bold">Projects</span>
+          </div>
+          <div class="flex justify-between">
+            <span class="text-xl font-bold">
+              Air Quality monitoring platform
+            </span>
+            <span class="text-gray-400">2020-2021</span>
+          </div>
+          <div class="pt-4">
+            <div class="text-gray-400 text-justify">
+              Aggregation of data from several air pollutant sensors and provide
+              a web application to present the data collected. Project done in
+              collaboration of Environment Institute of University of Aveiro.
+            </div>
+            <div class="flex pt-4">
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">Python</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">Django</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">PostgreSQL</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">Celery</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">Grafana</span>
+              </div>
+            </div>
           </div>
         </div>
       </main>
