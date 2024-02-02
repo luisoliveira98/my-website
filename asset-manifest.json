@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc711372.css",
-    "main.js": "/static/js/main.9c34e0ff.js",
-    "static/js/651.edc62723.chunk.js": "/static/js/651.edc62723.chunk.js",
-    "static/media/foto-perfil.jpeg": "/static/media/foto-perfil.171a85488e5d357a12ec.jpeg",
-    "static/media/LuisCV.pdf": "/static/media/LuisCV.cc1addb92e3abc9fbffb.pdf",
-    "index.html": "/index.html",
-    "main.fc711372.css.map": "/static/css/main.fc711372.css.map",
-    "main.9c34e0ff.js.map": "/static/js/main.9c34e0ff.js.map",
-    "651.edc62723.chunk.js.map": "/static/js/651.edc62723.chunk.js.map"
+    "main.css": "/my-website/static/css/main.fc711372.css",
+    "main.js": "/my-website/static/js/main.97ec6d64.js",
+    "static/js/651.edc62723.chunk.js": "/my-website/static/js/651.edc62723.chunk.js",
+    "static/media/foto-perfil.jpeg": "/my-website/static/media/foto-perfil.171a85488e5d357a12ec.jpeg",
+    "static/media/LuisCV.pdf": "/my-website/static/media/LuisCV.cc1addb92e3abc9fbffb.pdf",
+    "index.html": "/my-website/index.html",
+    "main.fc711372.css.map": "/my-website/static/css/main.fc711372.css.map",
+    "main.97ec6d64.js.map": "/my-website/static/js/main.97ec6d64.js.map",
+    "651.edc62723.chunk.js.map": "/my-website/static/js/651.edc62723.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc711372.css",
-    "static/js/main.9c34e0ff.js"
+    "static/js/main.97ec6d64.js"
   ]
 }
