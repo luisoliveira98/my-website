@@ -5,9 +5,9 @@ import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 function Footer() {
   return (
-    <footer class="pt-6">
-      <div class="sm:flex sm:items-center sm:justify-end">
-        <span class="text-sm text-gray-800 sm:text-center dark:text-gray-400">
+    <footer class="mx-auto w-full max-w-2xl space-y-8 pt-6">
+      <div class="flex items-center justify-end">
+        <span class="text-sm text-gray-800 text-center dark:text-gray-400">
           <a
             href={cv}
             download="Luis-Oliveira-CV"
@@ -18,7 +18,7 @@ function Footer() {
             Get my CV
           </a>
         </span>
-        <div class="flex mt-4 sm:justify-center sm:mt-0 text-2xl">
+        <div class="flex mt-0 justify-center text:lg md:text-2xl">
           <a href="https://www.linkedin.com/in/luisoliveira98" class="pl-4">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
