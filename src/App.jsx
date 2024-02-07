@@ -50,7 +50,8 @@ function App() {
                   </li>
                   <li>
                     Development of unit tests using JestJS and behavior
-                    verification using integration tests written with Gherkin.
+                    verification using integration tests written with Gherkin to
+                    validate the behavior of the apps.
                   </li>
                   <li>
                     Start a new project from the beginning where I was an active
@@ -59,6 +60,23 @@ function App() {
                   </li>
                 </ul>
               </span>
+            </div>
+            <div class="text-md md:text-lg text-center flex flex-wrap pt-4">
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">NodeJS</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">TypeScript</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">JestJS</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">Gherkin</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">Jenkins</span>
+              </div>
             </div>
           </div>
         </div>
@@ -103,7 +121,7 @@ function App() {
               Skills
             </span>
           </div>
-          <div class="text-md md:text-xl text-center flex flex-wrap">
+          <div class="text-md md:text-lg text-center flex flex-wrap">
             <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
               <span class="m-2">NodeJS</span>
             </div>
@@ -166,7 +184,13 @@ function App() {
                 <span class="m-2">PostgreSQL</span>
               </div>
               <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">Docker</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
                 <span class="m-2">Celery</span>
+              </div>
+              <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
+                <span class="m-2">MQTT</span>
               </div>
               <div class="mb-2 mr-2 rounded-lg border border-gray-300 bg-gray-100">
                 <span class="m-2">Grafana</span>
