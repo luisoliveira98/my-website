@@ -1,4 +1,4 @@
-import cv from "./../LuisCV.pdf";
+import cv from "../resources/LuisCV.pdf";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSquareGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
