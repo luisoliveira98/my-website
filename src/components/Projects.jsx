@@ -2,6 +2,7 @@ const skills = [
   "Python",
   "Django",
   "PostgreSQL",
+  "Rest API",
   "Docker",
   "Celery",
   "MQTT",
@@ -25,8 +26,10 @@ function Projects() {
       <div class="text-md md:text-lg pt-4">
         <div class="text-gray-400 text-justify">
           Aggregation of data from several air pollutant sensors and provide a
-          web application to present the data collected. Project done in
-          collaboration of Environment Institute of University of Aveiro.
+          web application to present the data collected. It is also provided a
+          Rest API to allow their clients integrate the data in their solutions.
+          Project done in collaboration of Environment Institute of University
+          of Aveiro.
         </div>
         <div class="flex flex-wrap pt-4">
           {skills.map((skill) => {

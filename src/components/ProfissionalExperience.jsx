@@ -1,4 +1,4 @@
-const skills = ["NodeJS", "TypeScript", "JestJS", "Gherkin", "Jenkins"];
+const skills = ["NodeJS", "TypeScript", "JestJS", "RxJS", "Gherkin", "Jenkins"];
 
 function ProfissionalExperience() {
   return (

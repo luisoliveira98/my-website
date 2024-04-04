@@ -5,6 +5,7 @@ function Skills() {
     "JestJS",
     "React",
     "Python",
+    "Rest API",
     "Django",
     "SQL",
     "Docker",
